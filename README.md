@@ -2,7 +2,7 @@
 
 ### Description
 create a graph that represents the data that correlates across different categories.\
-Project is based off this project:\
+Project is based off this project *Savai: An app that helps users search beauty services around their area*\
 &nbsp;&nbsp;&nbsp;&nbsp;[Website](https://savai.co/)\
 &nbsp;&nbsp;&nbsp;&nbsp;[Repo](https://github.com/SarinSwift/Savai)\
 &nbsp;&nbsp;&nbsp;&nbsp;[Docsify](https://rinniswift.github.io/BackendAPI/#/)
