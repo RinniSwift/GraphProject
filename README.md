@@ -16,7 +16,6 @@ Service Location
 ---Services
 ```
 
-
 **Object Info**:
 ```
 Service Location:
@@ -48,4 +47,15 @@ Service:
 ```
 
 
+### Graph visualization
 
+> Middle node is the database which connects to 5 other clusters.\
+> Clusters represent the 5 different objects.
+
+<img src="IMG_3094.JPG" width="900" height="600" />
+
+### Graph visualization with data
+
+> Easy visualization of backend database.
+
+<img src="IMG_3096.JPG" width="900" height="600" />
