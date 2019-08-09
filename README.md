@@ -60,3 +60,10 @@ Service:
 > Easy visualization of backend database.
 
 <img src="IMG_3099.JPG" width="900" height="600" />
+
+
+### Solutions
+
+1. Calculate the least amount of services a shop offers with bfs
+2. Calculate all the services a shop offerd with dfs
+
